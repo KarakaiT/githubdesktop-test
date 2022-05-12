@@ -1,0 +1,1 @@
+Ez az ABC.txt fáljoim amit az elöbb commitoltam a github desktop alkalmazással!
